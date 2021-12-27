@@ -1,5 +1,9 @@
 - 👋🏻! I’m @ReelikaR
 - 🤓 I’m currently learning the basics of coding
+     - HTML
+     - CSS
+     - JS 
+     - ReactJS 
 - 💻 I’m working on becoming a Front-end Developer
 
 <!---
