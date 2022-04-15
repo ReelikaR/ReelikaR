@@ -4,7 +4,9 @@
      - CSS
      - JS 
      - ReactJS 
-- 💻 I’m working on becoming a Front-end Developer
+     - PHP
+     - MySQL
+- 💻 I’m working on becoming a Front-End/Web Developer
 
 <!---
 ReelikaR/ReelikaR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
